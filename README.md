@@ -1,2 +1,2 @@
-# PIC13F877A_drivers
-PIC13F877A_drivers
+# PIC16F877A_drivers
+PIC16F877A_drivers
